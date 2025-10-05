@@ -1,3 +1,4 @@
+//ps://www.codechef.com/problems/P1149
 #include<bits/stdc++.h>
 using namespace std;
 int main()
